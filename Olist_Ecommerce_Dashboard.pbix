@@ -1,1 +1,4 @@
-
+This Power BI dashboard provides a complete overview of Olist’s e‑commerce performance, combining customer, order, payment, product, and geographic insights.
+Key KPIs highlight total orders, revenue, customer satisfaction, and unique customer activity.
+Interactive visuals reveal monthly trends, payment behavior, top‑selling products, and city‑level order distribution.
+The dashboard demonstrates end‑to‑end analytics skills using PostgreSQL, SQL, and Power BI.
