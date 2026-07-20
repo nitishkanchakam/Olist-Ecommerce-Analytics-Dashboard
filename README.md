@@ -178,3 +178,6 @@ The Olist e‑commerce dataset provides a rich foundation for understanding cust
 This analysis showcases how structured data modeling and clear visual storytelling can support better business decisions.
 
 Thank you for visiting this project!  
+
+
+![KPI Overview](kpi_overview.png)
